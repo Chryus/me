@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Full Stack Developer at Gazelle/EcoATM <span>March 2017 - July 2019</span></h2>
+                        <p>As a developer at Gazelle, I worked with multiple technologies across the stack, including Rails and SQL to add new products to databases; QraphQL to build descriptive queries to our CDN; and React plus Redux to manage data stores and complex user flows (like implementing a user checkout flow). I also built third-party integrations with Salesforce and Google Analytics to track customer behavior and styled custom landing pages for business promotions using bootstrap and flex.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Full Stack Developer at MentorHQ<span> April 2014 - August 2016</span></h2>
+                        <p>At Mentor, I built a feature that enabled employees to draw and record notes on top of training videos utilizing an HTML canvas overlay and a script that perfectly synced drawing playback with video. I also designed Rails model associations and data migrations and built an encoding microservice with Sinatra to process video uploads (encoder models to process content (e.g., converting AVI to MP4 or converting MKV to MP4) using DIVx technology.</p>
                       </div>
                     </div>
                   </article>
@@ -43,14 +43,19 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Extern at BetaNYC<span> February - April 2014</span></h2>
+                        <p>With a team of Flatiron School externs, I built a timeline of open data milestones in New York City utilizing Rails, Angular and D3 technologies to further BetaNYC's mission of improving lives in New York through technology.</p>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-none">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Flatiron Fellow at Flatiron School<span> October 2013 - March 2014 </span></h2>
+                        <p>Out of a pool of hundreds of applicants, I was awarded the NYC Flatiron School Felloship to learn Ruby on Rails, Javascript/Angular, and CSS over a six month period with 27 other students. I also learned the value of collaborating in teams to brainstorm features and build engaging applications with open data.</p>
                       </div>
                     </div>
                   </article>
