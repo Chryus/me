@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Full Stack Developer at Gazelle/EcoATM <span>March 2017 - July 2019</span></h2>
-                        <p>As a developer at Gazelle, I worked with multiple technologies across the stack, including Rails and SQL to add new products to databases; QraphQL to build descriptive queries to our CDN; and React plus Redux to manage data stores and complex user flows (like implementing a user checkout flow). I also built third-party integrations with Salesforce and Google Analytics to track customer behavior and styled custom landing pages for business promotions using bootstrap and flex.</p>
+                        <p>As a developer at Gazelle, I worked with multiple technologies across the stack, including Rails and SQL to add new products to databases; GraphQL to build descriptive queries to our CDN; and React plus Redux to manage data stores and complex user flows (like implementing a user checkout flow). I also built third-party integrations with Salesforce and Google Analytics to track customer behavior and styled custom landing pages for business promotions using bootstrap and flex.</p>
                       </div>
                     </div>
                   </article>
