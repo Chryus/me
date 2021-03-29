@@ -19,7 +19,7 @@ export default class Projects extends Component {
             </div>
             <div className='row'>
               <div
-                className='col-md-4 animate-box'
+                className='col-md-3 animate-box'
                 data-animate-effect='fadeInBottom'
               >
                 <div
@@ -57,7 +57,7 @@ export default class Projects extends Component {
                 </div>
               </div>
               <div
-                className='col-md-4 animate-box'
+                className='col-md-3 animate-box'
                 data-animate-effect='fadeInBottom'
               >
                 <div
@@ -95,7 +95,7 @@ export default class Projects extends Component {
                 </div>
               </div>
               <div
-                className='col-md-4 animate-box'
+                className='col-md-3 animate-box'
                 data-animate-effect='fadeInBottom'
               >
                 <div
@@ -133,7 +133,7 @@ export default class Projects extends Component {
                 </div>
               </div>
               <div
-                className='col-md-4 animate-box'
+                className='col-md-3 animate-box'
                 data-animate-effect='fadeInLeft'
               >
                 <div
@@ -159,43 +159,6 @@ export default class Projects extends Component {
                         <span>
                           <a
                             href='https://game-of-life-is-real-tho.herokuapp.com/'
-                            target='_blank'
-                            rel='noopener noreferrer'
-                          >
-                            <i className='icon-share3' />
-                          </a>
-                        </span>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className='col-md-4 animate-box'
-                data-animate-effect='fadeInRight'
-              >
-                <div
-                  className='project'
-                  style={{ backgroundImage: 'url(images/img-4.jpg)' }}
-                >
-                  <div className='desc'>
-                    <div className='con'>
-                      <h3>
-                        <a
-                          href='http://www.opengovtimeline.com/'
-                          target='_blank'
-                          rel='noopener noreferrer'
-                        >
-                          Open Data Timeline
-                        </a>
-                      </h3>
-                      <span>
-                        D3 visualization of open data milestones in NYC.
-                      </span>
-                      <p className='icon'>
-                        <span>
-                          <a
-                            href='http://www.opengovtimeline.com/'
                             target='_blank'
                             rel='noopener noreferrer'
                           >
