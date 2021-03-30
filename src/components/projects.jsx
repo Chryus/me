@@ -39,7 +39,7 @@ export default class Projects extends Component {
                       </h3>
                       <span>
                         An e-commerce site built with Node.js, Express, React,
-                        Redux & MongoDbB.
+                        Redux & MongoDB.
                       </span>
                       <p className='icon'>
                         <span>
@@ -77,7 +77,7 @@ export default class Projects extends Component {
                       </h3>
                       <span>
                         A social network for developers built with Node.js,
-                        Express, React, Redux & MongoDbB.
+                        Express, React, Redux & MongoDB.
                       </span>
                       <p className='icon'>
                         <span>
