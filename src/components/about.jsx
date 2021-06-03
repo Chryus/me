@@ -52,8 +52,8 @@ export default class About extends Component {
                   <div className='desc'>
                     <h3>Web Development </h3>
                     <p>
-                      I build and style full-stack features for Rails,
-                      React/Redux, and MERN applications.
+                      I build and style full-stack features for Ruby on Rails,
+                      React/Redux, and MERN stack applications.
                     </p>
                   </div>
                 </div>
